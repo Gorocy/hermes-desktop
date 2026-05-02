@@ -8,7 +8,6 @@ import {
 } from "electron";
 import { join } from "path";
 import { electronApp, optimizer, is } from "@electron-toolkit/utils";
-import type { AppUpdater } from "electron-updater";
 import icon from "../../resources/icon.png?asset";
 import {
   checkInstallStatus,
@@ -780,65 +779,13 @@ function setupUpdater(): void {
   // IPC handlers must always be registered to avoid invoke errors
   ipcMain.handle("get-app-version", () => app.getVersion());
 
-  if (!app.isPackaged) {
-    // Skip auto-update in dev mode
-    ipcMain.handle("check-for-updates", async () => null);
-    ipcMain.handle("download-update", () => true);
-    ipcMain.handle("install-update", () => {});
-    return;
-  }
-
-  // Dynamic import to avoid electron-updater issues in dev mode
-  // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const { autoUpdater } = require("electron-updater") as {
-    autoUpdater: AppUpdater;
-  };
-
-  autoUpdater.autoDownload = false;
-  autoUpdater.autoInstallOnAppQuit = true;
-
-  autoUpdater.on("update-available", (info) => {
-    mainWindow?.webContents.send("update-available", {
-      version: info.version,
-      releaseNotes: info.releaseNotes,
-    });
-  });
-
-  autoUpdater.on("download-progress", (progress) => {
-    mainWindow?.webContents.send("update-download-progress", {
-      percent: Math.round(progress.percent),
-    });
-  });
-
-  autoUpdater.on("update-downloaded", () => {
-    mainWindow?.webContents.send("update-downloaded");
-  });
-
-  autoUpdater.on("error", (err) => {
-    mainWindow?.webContents.send("update-error", err.message);
-  });
-
-  ipcMain.handle("check-for-updates", async () => {
-    try {
-      const result = await autoUpdater.checkForUpdates();
-      return result?.updateInfo?.version || null;
-    } catch {
-      return null;
-    }
-  });
-
-  ipcMain.handle("download-update", () => {
-    autoUpdater.downloadUpdate();
-    return true;
-  });
-
-  ipcMain.handle("install-update", () => {
-    autoUpdater.quitAndInstall(false, true);
-  });
-
-  setTimeout(() => {
-    autoUpdater.checkForUpdates().catch(() => {});
-  }, 5000);
+  // Auto-update DISABLED (security audit 2026-05-02 — findings EH-012, NS-006).
+  // The auto-update feed (fathah/hermes-desktop) is unsigned/unnotarized; until
+  // signing + notarization are in place, do not pull or apply releases.
+  // No-op handlers stay registered so renderer IPC calls do not throw.
+  ipcMain.handle("check-for-updates", async () => null);
+  ipcMain.handle("download-update", () => true);
+  ipcMain.handle("install-update", () => {});
 }
 
 app.whenReady().then(() => {

@@ -1,0 +1,877 @@
+[
+  {
+    "sha256": "a36f5e81ce208137acc8fa9c00547c020fa10f044583002ccd23799b7f64078e",
+    "package": "@electron/windows-sign",
+    "size": 459216,
+    "path": "node_modules/@electron/windows-sign/vendor/signtool.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "a36f5e81ce208137acc8fa9c00547c020fa10f044583002ccd23799b7f64078e"
+    }
+  },
+  {
+    "sha256": "22e58d68e099a783491dc358e4e75d4ef5d1fdf75c14856366848ff72fab1791",
+    "package": "@rollup/rollup-darwin-arm64",
+    "size": 1763808,
+    "path": "node_modules/@rollup/rollup-darwin-arm64/rollup.darwin-arm64.node",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "22e58d68e099a783491dc358e4e75d4ef5d1fdf75c14856366848ff72fab1791"
+    }
+  },
+  {
+    "sha256": "1bcf76c8b79b48791ed0f415a43de16b84c8e96132ef44dde7771078bba913aa",
+    "package": "@tailwindcss/oxide-darwin-arm64",
+    "size": 2939760,
+    "path": "node_modules/@tailwindcss/oxide-darwin-arm64/tailwindcss-oxide.darwin-arm64.node",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "1bcf76c8b79b48791ed0f415a43de16b84c8e96132ef44dde7771078bba913aa"
+    }
+  },
+  {
+    "sha256": "81f67048b7366870e5d49f00a8c570570c6a0dd11c05df7a09a8c52870cc83bd",
+    "package": "7zip-bin/win",
+    "size": 1089024,
+    "path": "node_modules/7zip-bin/win/arm64/7za.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/node_modules/7zip-bin/win/arm64/7za.exe",
+      "FileSize": "1089024",
+      "MD5": "738047F69DA7D4489BC085909A68E532",
+      "SHA-1": "094C83B994177F3BAC13F8D9320ABCA5C85B8839",
+      "SHA-256": "81F67048B7366870E5D49F00A8C570570C6A0DD11C05DF7A09A8C52870CC83BD",
+      "SHA-512": "D6BEC8D71B6716A28E1C399E39C1652B354711D8081ECC09746184DCF0A28AAB11144C5B893CD3D975564411929358D7A8AF8C11AB45D415E864B5CBE5BF14C1",
+      "SSDEEP": "12288:eeJk5mmhxMpYcHwTR9rjJf19RVlGVYG4YQTukMef5vxW/gR5HD:zojYYcUlcY99AK18oR5j",
+      "TLSH": "T1B3355B416E4CE891F1C6E2BC6DB78F61363775288A548287B127432CFCE2AD4CDB55E2",
+      "insert-timestamp": "1762792158.3062084",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "1A17F45E5FE72A8835A5954844171D352133291F",
+          "snap-authority": "canonical",
+          "snap-filename": "ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5.snap",
+          "snap-id": "ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5",
+          "snap-name": "deezer-lite-player",
+          "snap-publisher-id": "64D0oOXqG3TNfjcgGcVIgaUyMSLwPYHd",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2025-02-20T20:37:37.260858Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "31fd52f8996986623cf52c3b4d0f7ac74a9dec63fc16c902cef673eed550c435",
+    "package": "7zip-bin/win",
+    "size": 792064,
+    "path": "node_modules/7zip-bin/win/ia32/7za.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/node_modules/7zip-bin/win/ia32/7za.exe",
+      "FileSize": "792064",
+      "MD5": "DFD1CF824C781069DEF1D239A626D43E",
+      "SHA-1": "BBE24CBAE89166DE829A7CF91EEBFB518D8F45BE",
+      "SHA-256": "31FD52F8996986623CF52C3B4D0F7AC74A9DEC63FC16C902CEF673EED550C435",
+      "SHA-512": "0413ADECC5560DDB18133EEC70B3A717D82738F304BDBE6EB6E2DAD9ADA57314C60BBD48AC0AA948AF77AE76F7D522ADA4F6089FFFAB88F882872C56BD12CA20",
+      "SSDEEP": "24576:fq79Al2Gp6BXGyja9hicoZ6ijJhyHiJT:yS2WUda9vy3dT",
+      "TLSH": "T129F48E227AF5D0BBC24211328A1D7BF691F9E3190B3048C763908F6D6B359D5DA3AE1D",
+      "insert-timestamp": "1762792158.37177",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5",
+      "hashlookup:parent-total": 8,
+      "parents": [
+        {
+          "SHA-1": "A3A7A24CBB8476F609B60579E6B5B9FE990D6F0C",
+          "snap-authority": "canonical",
+          "snap-filename": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4531.snap",
+          "snap-id": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4531",
+          "snap-name": "sabnzbd",
+          "snap-publisher-id": "ALlEHtUfvo3ZaFd6RGeIT0nF2lW0kk6f",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2018-10-30T21:44:51.848392Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4531.snap"
+        },
+        {
+          "SHA-1": "687CE90945F6A30624A5E4CA05DD6684444DA4A1",
+          "snap-authority": "canonical",
+          "snap-filename": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3930.snap",
+          "snap-id": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3930",
+          "snap-name": "sabnzbd",
+          "snap-publisher-id": "ALlEHtUfvo3ZaFd6RGeIT0nF2lW0kk6f",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2018-10-30T21:44:51.848392Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3930.snap"
+        },
+        {
+          "SHA-1": "7D000688F5CC69EFC12152F014DC11C6DD919DB7",
+          "snap-authority": "canonical",
+          "snap-filename": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_5001.snap",
+          "snap-id": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_5001",
+          "snap-name": "sabnzbd",
+          "snap-publisher-id": "ALlEHtUfvo3ZaFd6RGeIT0nF2lW0kk6f",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2018-10-30T21:44:51.848392Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/xbKFilZvKsEXegCPaOjd0eN7qucKsM92_5001.snap"
+        },
+        {
+          "SHA-1": "1A17F45E5FE72A8835A5954844171D352133291F",
+          "snap-authority": "canonical",
+          "snap-filename": "ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5.snap",
+          "snap-id": "ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5",
+          "snap-name": "deezer-lite-player",
+          "snap-publisher-id": "64D0oOXqG3TNfjcgGcVIgaUyMSLwPYHd",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2025-02-20T20:37:37.260858Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5.snap"
+        },
+        {
+          "SHA-1": "C2D2F5D87606A7505BC5674F2D96B2FDB615FEB1",
+          "snap-authority": "canonical",
+          "snap-filename": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3755.snap",
+          "snap-id": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3755",
+          "snap-name": "sabnzbd",
+          "snap-publisher-id": "ALlEHtUfvo3ZaFd6RGeIT0nF2lW0kk6f",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2018-10-30T21:44:51.848392Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3755.snap"
+        },
+        {
+          "SHA-1": "5F1671A869E17D1C2F0647F94B35D992A1F1B23E",
+          "snap-authority": "canonical",
+          "snap-filename": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3797.snap",
+          "snap-id": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3797",
+          "snap-name": "sabnzbd",
+          "snap-publisher-id": "ALlEHtUfvo3ZaFd6RGeIT0nF2lW0kk6f",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2018-10-30T21:44:51.848392Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/xbKFilZvKsEXegCPaOjd0eN7qucKsM92_3797.snap"
+        },
+        {
+          "SHA-1": "C22491F4ED65A08A083144A268D6DF0D8CFB6A8F",
+          "snap-authority": "canonical",
+          "snap-filename": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4131.snap",
+          "snap-id": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4131",
+          "snap-name": "sabnzbd",
+          "snap-publisher-id": "ALlEHtUfvo3ZaFd6RGeIT0nF2lW0kk6f",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2018-10-30T21:44:51.848392Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4131.snap"
+        },
+        {
+          "SHA-1": "4B416DAD5F623BFEEB8533DA735C315ACD2DDD6A",
+          "snap-authority": "canonical",
+          "snap-filename": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4119.snap",
+          "snap-id": "xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4119",
+          "snap-name": "sabnzbd",
+          "snap-publisher-id": "ALlEHtUfvo3ZaFd6RGeIT0nF2lW0kk6f",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2018-10-30T21:44:51.848392Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/xbKFilZvKsEXegCPaOjd0eN7qucKsM92_4119.snap"
+        }
+      ],
+      "hashlookup:trust": 90
+    }
+  },
+  {
+    "sha256": "b0cfdeaf429f5cc53f85123dd8f5a5feb92c19d31aa34df257edf9a26be05f95",
+    "package": "7zip-bin/win",
+    "size": 1231360,
+    "path": "node_modules/7zip-bin/win/x64/7za.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/node_modules/7zip-bin/win/x64/7za.exe",
+      "FileSize": "1231360",
+      "MD5": "B7B7473472C9806BEE3E7AE6C1ADDA23",
+      "SHA-1": "2DC03597A0D9C7FF97250F90D47BDEAF9B5753E7",
+      "SHA-256": "B0CFDEAF429F5CC53F85123DD8F5A5FEB92C19D31AA34DF257EDF9A26BE05F95",
+      "SHA-512": "544949F1213817599FDB09DBB9834AEEB370B3F6225C3D835A29797B006BD36AA37B8A246A22204277F40D3865A01BC8D029A531D17D6BB43D9DDD3DB7370580",
+      "SSDEEP": "24576:zXWmPnP3K4fhiFvAEV0R9TzPeHLSoU1Ja:zXWUny2hiFmR9erSoU1",
+      "TLSH": "T110452A56F6788375D073C0B9C5D2AB9AEE72308517308ACB1246876D3F17BE6863A731",
+      "insert-timestamp": "1762792158.3476458",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "1A17F45E5FE72A8835A5954844171D352133291F",
+          "snap-authority": "canonical",
+          "snap-filename": "ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5.snap",
+          "snap-id": "ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5",
+          "snap-name": "deezer-lite-player",
+          "snap-publisher-id": "64D0oOXqG3TNfjcgGcVIgaUyMSLwPYHd",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2025-02-20T20:37:37.260858Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/ZK9ExnvkjleH4N27phNvA2cZqYKqJ7BE_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "98d3d9a42ef4148efdf86d664c63c89f1d221d7122878a6298071de5d0d8b141",
+    "package": "app-builder-bin/win",
+    "size": 23674880,
+    "path": "node_modules/app-builder-bin/win/arm64/app-builder.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "98d3d9a42ef4148efdf86d664c63c89f1d221d7122878a6298071de5d0d8b141"
+    }
+  },
+  {
+    "sha256": "b92d23d7847e2d5c6031e63537bd89e56f6a98ee112baa90258dc664240a17d7",
+    "package": "app-builder-bin/win",
+    "size": 23361024,
+    "path": "node_modules/app-builder-bin/win/ia32/app-builder.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "b92d23d7847e2d5c6031e63537bd89e56f6a98ee112baa90258dc664240a17d7"
+    }
+  },
+  {
+    "sha256": "e101932f5685b8e7d5e81ccb132f245e4227065608a86673397b1c70a05e989f",
+    "package": "app-builder-bin/win",
+    "size": 24661504,
+    "path": "node_modules/app-builder-bin/win/x64/app-builder.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "e101932f5685b8e7d5e81ccb132f245e4227065608a86673397b1c70a05e989f"
+    }
+  },
+  {
+    "sha256": "cbe284ed7f2b27b190e881101f02ca9776dfc33de7b4262738bd6a32ebe7909f",
+    "package": "better-sqlite3/build",
+    "size": 1914640,
+    "path": "node_modules/better-sqlite3/build/Release/better_sqlite3.node",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "cbe284ed7f2b27b190e881101f02ca9776dfc33de7b4262738bd6a32ebe7909f"
+    }
+  },
+  {
+    "sha256": "c167dbedd388718c70c921eeeac825492733f76107190dc1ba17801c79da879e",
+    "package": "electron-winstaller/vendor",
+    "size": 1586176,
+    "path": "node_modules/electron-winstaller/vendor/7z-arm64.dll",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "c167dbedd388718c70c921eeeac825492733f76107190dc1ba17801c79da879e"
+    }
+  },
+  {
+    "sha256": "65d0dcc70753ff3efd4631ac784d35ea5c22df7bd6fe2265a04382a7043d1512",
+    "package": "electron-winstaller/vendor",
+    "size": 487936,
+    "path": "node_modules/electron-winstaller/vendor/7z-arm64.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "65d0dcc70753ff3efd4631ac784d35ea5c22df7bd6fe2265a04382a7043d1512"
+    }
+  },
+  {
+    "sha256": "9ed007aa82e440ceb39a6e105bb1d602a9bc59a4946267ba8de2f220aa15bc06",
+    "package": "electron-winstaller/vendor",
+    "size": 1609216,
+    "path": "node_modules/electron-winstaller/vendor/7z-x64.dll",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/7z.dll",
+      "FileSize": "1609216",
+      "MD5": "26DC695A8D549D1C9137C14E6D3B8B4D",
+      "SHA-1": "0B7956D7343877C41F75B2C593258CF6E0E78863",
+      "SHA-256": "9ED007AA82E440CEB39A6E105BB1D602A9BC59A4946267BA8DE2F220AA15BC06",
+      "SHA-512": "FF3EB73A0E09593503F7463A1D293652C889E84F15BD70542E82029612544390D516B54ED748E242E74C394FCC9602BF823D174BDCEAD8AE07DF0E7A086AF8C7",
+      "SSDEEP": "24576:gh9laoVaRr9pygv4deXzPWPUOyobP4aMWhc6O15WLz7:g1RVaRx9ugPWPUdob3M0D",
+      "TLSH": "T139753B6BF6748260D0B7C075C5D2ABAAEEB13486873096C752459B3D2F17AF6C939330",
+      "insert-timestamp": "1727086988.0999184",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "c7245e21a7553d9e52d434002a401c77a7ca7d0f245f2311b0ddf16f8f946c6f",
+    "package": "electron-winstaller/vendor",
+    "size": 446976,
+    "path": "node_modules/electron-winstaller/vendor/7z-x64.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/7z.exe",
+      "FileSize": "446976",
+      "KnownMalicious": "malshare.com",
+      "MD5": "3E797119E0FD64297CB82794B8D68EDD",
+      "SHA-1": "A67D3B35743F6CA383673A3848B8C97EC164CC0D",
+      "SHA-256": "C7245E21A7553D9E52D434002A401C77A7CA7D0F245F2311B0DDF16F8F946C6F",
+      "SHA-512": "1378C54A3A1C5BD73C04E787D218F245024625003D689379013F1343C7F9E6282D670C3D68EDCE6006629CA90CDDD27AC3F53F640F96C4936BBFF319658CAEF8",
+      "SSDEEP": "12288:4DRHJamC1E+3ZZ4jjEKDywIYCsdtpu7Cdw:ghF+3ZZ4lRk7h",
+      "TLSH": "T11D94F825F6748631D073D0B9C5D3A69AEE3130851B308ACB1286D77C6F67AE6C93A731",
+      "insert-timestamp": "1727086988.1752274",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 35
+    }
+  },
+  {
+    "sha256": "310584b7170f81e7c21733628e5d46f28f6a9b900f94368f1b943d6e4bbd3253",
+    "package": "electron-winstaller/vendor",
+    "size": 28672,
+    "path": "node_modules/electron-winstaller/vendor/candle.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/candle.exe",
+      "FileSize": "28672",
+      "MD5": "374D5D612B40092A5B6A91247E1A52DF",
+      "SHA-1": "F5AC154EA38A49349E24F45C7FCEC7414CA7DA53",
+      "SHA-256": "310584B7170F81E7C21733628E5D46F28F6A9B900F94368F1B943D6E4BBD3253",
+      "SHA-512": "F318C356A93B1A52FDA410151BB71263562C9BD9122FFDB2226163A66D597910C57426F4129B83ED222BB6CC5C93BA9EB5B6EAA969041DFB0A11176D0A7C64E4",
+      "SSDEEP": "384:xqoSaNht3DhaQpadjD0DcrMzNggE8T8sE04:xq47WZeliCTi",
+      "TLSH": "T10DD20922B7E84A3BE9FF07B9797226002AF2BB599515F914ECCC458E1B377404A51B33",
+      "insert-timestamp": "1727086988.156661",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "6b441eb98b2771d6cb51de7d3e1b2eaf8c6cd045b4ef7bb1a26f297295d96100",
+    "package": "electron-winstaller/vendor",
+    "size": 32768,
+    "path": "node_modules/electron-winstaller/vendor/light.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/light.exe",
+      "FileSize": "32768",
+      "MD5": "051428347C38C12A42748931A07FE817",
+      "SHA-1": "BEC264FE55716A0D8DB161DFFEFC82A7EC389F6A",
+      "SHA-256": "6B441EB98B2771D6CB51DE7D3E1B2EAF8C6CD045B4EF7BB1A26F297295D96100",
+      "SHA-512": "0A7C27CC9929BE227C0ACD9BC8F02AB48CECFE8DEF375628125056E112F2F0E535F2E85FC425CC5F5C19A116E9A431A3DC647D5C06FCF7793DF080B55896AE42",
+      "SSDEEP": "384:JJqrMZKfVc8QQoQZ+JZ2JEjyNaEkmRD9xhPYY2f6oeeISTa37E0e30Z1:JJqnVb3ZA0JElMRZPSeeISTaeEb",
+      "TLSH": "T10DE23A05E7ACC326DAFF09F62D73130152B1672A9111FB187CCE958E1B277848662BB7",
+      "insert-timestamp": "1727086988.1805792",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "71d85bb2863f61ca11625e8bee171114047d3f3e95792309e2040f3e139baae3",
+    "package": "electron-winstaller/vendor",
+    "size": 45056,
+    "path": "node_modules/electron-winstaller/vendor/Microsoft.Deployment.Resources.dll",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/Microsoft.Deployment.Resources.dll",
+      "FileSize": "45056",
+      "MD5": "343DC7A39956EC67A576C91D3765A1CD",
+      "SHA-1": "60996371486500F1D76E7D304DE8FEB798BB66D3",
+      "SHA-256": "71D85BB2863F61CA11625E8BEE171114047D3F3E95792309E2040F3E139BAAE3",
+      "SHA-512": "2885E3008684F6CF77BC652B4C96C981D74FA0194918D2CBEEEB1ED98C8A7EF2FF5C8F2FE878233B18D6BC2E78F9FA20025179AB9766DABC57E8AB850EA4F8A5",
+      "SSDEEP": "768:LVF6NH+upx7QxmuXSMzFwemYVUJLzGL0bi:L76NjL9uXFLfV6O0i",
+      "TLSH": "T1F013180477ECC336C5BD4B78B872425843B2E256B133DB4E2CC861A59E3379987A1767",
+      "insert-timestamp": "1727086987.6578004",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "ca420fef4909c10e2e95c8c899fa7d009892dddf0b2424870236f1d0676e9165",
+    "package": "electron-winstaller/vendor",
+    "size": 176128,
+    "path": "node_modules/electron-winstaller/vendor/Microsoft.Deployment.WindowsInstaller.dll",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/Microsoft.Deployment.WindowsInstaller.dll",
+      "FileSize": "176128",
+      "KnownMalicious": "malshare.com",
+      "MD5": "233CA870E2530DA48897DB8FA6F1E3CF",
+      "SHA-1": "1E4B4964978858C787F2A898B20F36E1FA805717",
+      "SHA-256": "CA420FEF4909C10E2E95C8C899FA7D009892DDDF0B2424870236F1D0676E9165",
+      "SHA-512": "25544EE4113FE4DC2B54F8A5A068F340BBB3B30BD444FF18DCDC789C573D2C24F3019601C3C9E8EEC4A61FBB5540867930B99A3696358EB587F64D3A70E1B9A6",
+      "SSDEEP": "3072:ZY3P0LZuWcqIevIYFvd+BFGR69UgoXafHSWCnfKlRUjW01KyO:zMiFvmER6joKfyL",
+      "TLSH": "T1CF046C2563FC477ECAAF83B4E2650361E7B1E2E97103DB0D9CC641BA2562780F692753",
+      "insert-timestamp": "1727086987.74161",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 35
+    }
+  },
+  {
+    "sha256": "61704f7dbe233980992f2a00ef9baacf64a8b157d688a4a4be6b7a2eaea02828",
+    "package": "electron-winstaller/vendor",
+    "size": 1664000,
+    "path": "node_modules/electron-winstaller/vendor/nuget.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/nuget.exe",
+      "FileSize": "1664000",
+      "MD5": "0F2770BE3FB2BA2BDFEC12A5C19E6270",
+      "SHA-1": "59B6EA549690ED9728572023576BA0685CE1CC5D",
+      "SHA-256": "61704F7DBE233980992F2A00EF9BAACF64A8B157D688A4A4BE6B7A2EAEA02828",
+      "SHA-512": "75C5FDAF8FB4303B8F17410ABDB8AE400422653BF6DEF1C081C6E9B4119B3BF2FAE681E4BA5173D59EAAAA51C60EEB84A5407460AC0F29806BA5CC02341D2957",
+      "SSDEEP": "24576:K4qCcQZr8YNhMq0dqnzQxJFYOmCMMUkz6uh6VovzdUmRjrjNj8+:fr8YNhMqo",
+      "TLSH": "T1CD75F70177FC555EF6B70BB5BAB094201EB9FEE22F10D69E1855228E19B1F808D22737",
+      "insert-timestamp": "1727086988.055255",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "e2df7b664db830f159d0dc6b3da8a95442cca175b9577f2d19952646d37ac32f",
+    "package": "electron-winstaller/vendor",
+    "size": 152576,
+    "path": "node_modules/electron-winstaller/vendor/rcedit.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/rcedit.exe",
+      "FileSize": "152576",
+      "MD5": "13DA8FA9AA537ECC0B87202B6AF27D54",
+      "SHA-1": "7D588608908154F735A9D71C2A6353167B471965",
+      "SHA-256": "E2DF7B664DB830F159D0DC6B3DA8A95442CCA175B9577F2D19952646D37AC32F",
+      "SHA-512": "DB0E1AE3511C1E5ECA1606C765899F5424BD7D6A67513BBF799A7C9A3016E617FAB9F181252C669750BD0FCD9203837910989E80A82DEE2A55914772E147BCEB",
+      "SSDEEP": "3072:Yblkn7ok449Q1CH0A1/7SrLoN+ktBph8VQ/uU4:Y5kEC9QA/7SrLoN3tdX4",
+      "TLSH": "T1BCE36B1136D1C032E9A302364DB8AF65597EFE724B7299DBB3880B5E0D347D0AA35B53",
+      "insert-timestamp": "1727086988.3111844",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "1e47eb606dad4c5c1568cfb8f4e970e1051ba5806aedb1ff3256284a8280d83b",
+    "package": "electron-winstaller/vendor",
+    "size": 223232,
+    "path": "node_modules/electron-winstaller/vendor/Setup.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "1e47eb606dad4c5c1568cfb8f4e970e1051ba5806aedb1ff3256284a8280d83b"
+    }
+  },
+  {
+    "sha256": "92a0afe94ccebcd877c3c7b05e80e8ad748f2c64959c431b88e7a7a1e5ce115f",
+    "package": "electron-winstaller/vendor",
+    "size": 237392,
+    "path": "node_modules/electron-winstaller/vendor/signtool.exe",
+    "circl_status": "found",
+    "circl": {
+      "CRC32": "3E029C93",
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-wix-msi/vendor/signtool.exe",
+      "FileSize": "237392",
+      "KnownMalicious": "malshare.com",
+      "MD5": "F944D3C2C989DA14D87517D1FF647DD3",
+      "OpSystemCode": {
+        "MfgCode": "1006",
+        "OpSystemCode": "362",
+        "OpSystemName": "TBD",
+        "OpSystemVersion": "none"
+      },
+      "ProductCode": {
+        "ApplicationType": "Chinese-Traditional",
+        "Language": "Chinese-Simplified",
+        "MfgCode": "608",
+        "OpSystemCode": "579",
+        "ProductCode": "14075",
+        "ProductName": "Microsoft Visual Studio 2010 Professional",
+        "ProductVersion": "2010"
+      },
+      "RDS:package_id": "288654",
+      "SHA-1": "96E8C80DB8035C6BADEA2BE97796B00C736AFD15",
+      "SHA-256": "92A0AFE94CCEBCD877C3C7B05E80E8AD748F2C64959C431B88E7A7A1E5CE115F",
+      "SHA-512": "3C3A4C0794DAA867A89BA6F7D951F35EBAB7583D67308B922A4805CE2C29BE5860EBE4BD01F906A1B8EBBE5DC803BD17CEB9A2042438D48CB28CA2A3211CAB0F",
+      "SSDEEP": "6144:dk4PcUOd7ZYKsN4JR7cFnNBPHgeUe3Nmi:dk4/Od7ZYvOD7cFnNBqi",
+      "SpecialCode": "",
+      "TLSH": "T1EC34E62266E88539F5F336740A7C6221177AFD619B3193CF6289139E8E72BD08E30757",
+      "db": "nsrl_legacy",
+      "insert-timestamp": "1727087079.6769369",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 2,
+      "parents": [
+        {
+          "SHA-1": "03BD1018751C915F71C1E2AE51345C94CA1942ED",
+          "snap-authority": "canonical",
+          "snap-filename": "mdTwaNga8m8NrBqqSH4FVIbtUwLWAhWj_15.snap",
+          "snap-id": "mdTwaNga8m8NrBqqSH4FVIbtUwLWAhWj_15",
+          "snap-name": "axiom",
+          "snap-publisher-id": "1gYihke6YA9pGfV8JRS1Ohe64f0Qs5nG",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2021-10-01T17:34:13.464567Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/mdTwaNga8m8NrBqqSH4FVIbtUwLWAhWj_15.snap"
+        },
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 40
+    }
+  },
+  {
+    "sha256": "81591699f7f156dc15f4e188fd132e01369352043511e758513dba59b19ac920",
+    "package": "electron-winstaller/vendor",
+    "size": 1856000,
+    "path": "node_modules/electron-winstaller/vendor/Squirrel-Mono.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "81591699f7f156dc15f4e188fd132e01369352043511e758513dba59b19ac920"
+    }
+  },
+  {
+    "sha256": "76359cd4b0349a83337b941332ad042c90351c2bb0a4628307740324c97984cc",
+    "package": "electron-winstaller/vendor",
+    "size": 1899520,
+    "path": "node_modules/electron-winstaller/vendor/Squirrel.exe",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "Squirrel.exe",
+      "FileSize": "1899520",
+      "MD5": "A560BAD9E373EA5223792D60BEDE2B13",
+      "RDS:package_id": "307970",
+      "SHA-1": "82A0DA9B52741D8994F28AD9ED6CBD3E6D3538FA",
+      "SHA-256": "76359CD4B0349A83337B941332AD042C90351C2BB0A4628307740324C97984CC",
+      "insert-timestamp": "1712783906.2505395",
+      "source": "db.sqlite",
+      "hashlookup:trust": 50
+    }
+  },
+  {
+    "sha256": "d823e6d954f7e445fbbb5c04e40a39cf248a3621f9eccbafdf3f0f1e7acb11dd",
+    "package": "electron-winstaller/vendor",
+    "size": 288768,
+    "path": "node_modules/electron-winstaller/vendor/StubExecutable.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "d823e6d954f7e445fbbb5c04e40a39cf248a3621f9eccbafdf3f0f1e7acb11dd"
+    }
+  },
+  {
+    "sha256": "c2a2c78e0912a6576517fc69ffd32793134f1a5b2b066279de3757c76c501548",
+    "package": "electron-winstaller/vendor",
+    "size": 1892864,
+    "path": "node_modules/electron-winstaller/vendor/SyncReleases.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "c2a2c78e0912a6576517fc69ffd32793134f1a5b2b066279de3757c76c501548"
+    }
+  },
+  {
+    "sha256": "490e29aa66c82487f79412df651c9e2a34d764fdf0b00b76944b63e9e6b780e3",
+    "package": "electron-winstaller/vendor",
+    "size": 20480,
+    "path": "node_modules/electron-winstaller/vendor/wconsole.dll",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/wconsole.dll",
+      "FileSize": "20480",
+      "MD5": "F30C6587C86260D0C57DE562453B01EF",
+      "SHA-1": "F477435C7A99AB1F8FECA95DBF16745A32D2BF4A",
+      "SHA-256": "490E29AA66C82487F79412DF651C9E2A34D764FDF0B00B76944B63E9E6B780E3",
+      "SHA-512": "93B12E1BBE3E9014123960FEC53B7157E856A9E8C8C7A4091DDF69F477AEC0EE417C8B22F276817F75653B9661A8D926AD5C69E52F1E75629A635EF97A1BE478",
+      "SSDEEP": "96:SPN45O4l499lunxa3IGpdfiSh6Att059pbRYS81G:q45OTVuxaYedfiVC059wz1G",
+      "TLSH": "T1E692942297F45725FABB0A72BC7716A02570BB149C73EA2E1CD9508F5827A40CDB1B26",
+      "insert-timestamp": "1727086987.7629943",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "9dfae44e99488add680ae6f7801283d45898baf48a7486c2a1adf8c105f6941d",
+    "package": "electron-winstaller/vendor",
+    "size": 115712,
+    "path": "node_modules/electron-winstaller/vendor/winterop.dll",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/winterop.dll",
+      "FileSize": "115712",
+      "MD5": "13F34B12F1CA0BD5B18DEC355F6F980C",
+      "SHA-1": "20FEDF577D2C3918242392388359F6E5B3F2074D",
+      "SHA-256": "9DFAE44E99488ADD680AE6F7801283D45898BAF48A7486C2A1ADF8C105F6941D",
+      "SHA-512": "CF3DAE021D76D71ACA37AC188AF65182B54A550F58D91C8312B92F9ADE4633EEFBCA687602A988E5D26D79D968652B6B460E22CFFDD6B07C1DED32ABCF6E8448",
+      "SSDEEP": "3072:ARTp/EvQB6pvh47bpm3cPoZiUVxZe+Lya:ARTp/r247bIZxb",
+      "TLSH": "T1D2B37C1175C0C4B2C2FE193C0578A2214B7FB870EDA8ADD7635812796EB81D1AF35E6B",
+      "insert-timestamp": "1727086988.2995749",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "4b3cf980a840f3e36d98fef3b4d4c302313ac7e2ea3310f5d0d71722853975c7",
+    "package": "electron-winstaller/vendor",
+    "size": 1748992,
+    "path": "node_modules/electron-winstaller/vendor/wix.dll",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/wix.dll",
+      "FileSize": "1748992",
+      "MD5": "45688182A675C3B0563C9201D8F01B39",
+      "SHA-1": "598E78CEDEBA8DC15FB343A0DFEA629EB96C032A",
+      "SHA-256": "4B3CF980A840F3E36D98FEF3B4D4C302313AC7E2EA3310F5D0D71722853975C7",
+      "SHA-512": "DBA63AB62516BDCF86AF8A8A75127CF53278F8E9DF8E3A58F23DFC37ECB4EB034E9933D95BB9AC5B4EDE52F93A86C37512E5E0B11D730A2BCA6F091F5F593C00",
+      "SSDEEP": "24576:hjy3pi0OP1FuGYRSFk/fih3TvtomXvJSfDKQX7V+tF4:hQpjiYRSFkyh3TvtomXvJwX7V+tF4",
+      "TLSH": "T19D854C053B99592BE4EF8731E4F0289503F9F0272A15BE6E559251EA1C32BC09D72BF3",
+      "insert-timestamp": "1727086987.7109108",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "2edb4170c88c87547b8fb9bbce09e1ea202595331a06bedc3164326b3a84cdcb",
+    "package": "electron-winstaller/vendor",
+    "size": 352256,
+    "path": "node_modules/electron-winstaller/vendor/WixNetFxExtension.dll",
+    "circl_status": "found",
+    "circl": {
+      "FileName": "snap-hashlookup-import/zigpos-zimt/resources/app/node_modules/electron-winstaller/vendor/WixNetFxExtension.dll",
+      "FileSize": "352256",
+      "MD5": "B9D0ED0756BD563230D440BA3A34817E",
+      "SHA-1": "CCE17ED6538EA5136D05B5B06947A3C29C4F14C5",
+      "SHA-256": "2EDB4170C88C87547B8FB9BBCE09E1EA202595331A06BEDC3164326B3A84CDCB",
+      "SHA-512": "6E6975C8ECC197EF564B5403E2C071B9D69CC2667EFD7CD2CEF5F1BF692C53A0A4130EC674D96D179583CB4D9535F4C510B86A5AB5668801808568A7C4D33171",
+      "SSDEEP": "3072:Rw1SkTSlHUPZ+BhYE1kuqCABP3ZuJLpqgc:qSkTSyPMLquwm",
+      "TLSH": "T19D7456CECF20D836D96191BC7896E48227161E2AEC898735C3D90E6F8FF512A125DC5F",
+      "insert-timestamp": "1727086987.6515262",
+      "mimetype": "application/x-dosexec",
+      "source": "snap:hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+      "hashlookup:parent-total": 1,
+      "parents": [
+        {
+          "SHA-1": "E299D14788708BD5AECD8A7DD7298142134F14B4",
+          "snap-authority": "canonical",
+          "snap-filename": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap",
+          "snap-id": "hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5",
+          "snap-name": "zigpos-zimt",
+          "snap-publisher-id": "vn1lECveXdDeH8dE09M3E51OKJbhbZKb",
+          "snap-signkey": "BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul",
+          "snap-timestamp": "2022-02-01T07:50:09.480060Z",
+          "source-url": "https://api.snapcraft.io/api/v1/snaps/download/hnWDuoGz0mn9qMtRQ95W4FJL2u4xkPuR_5.snap"
+        }
+      ],
+      "hashlookup:trust": 55
+    }
+  },
+  {
+    "sha256": "9278fe28ac434fde0be3a10788dc13ad92a28940ed70a52f86d9d69435599349",
+    "package": "electron-winstaller/vendor",
+    "size": 112128,
+    "path": "node_modules/electron-winstaller/vendor/WriteZipToSetup.exe",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "9278fe28ac434fde0be3a10788dc13ad92a28940ed70a52f86d9d69435599349"
+    }
+  },
+  {
+    "sha256": "40f2f51199e4f5fc46fa6b985fb3461bb63e6cd86c62bfa9bcee45ed4438d5fb",
+    "package": "fsevents",
+    "size": 163626,
+    "path": "node_modules/fsevents/fsevents.node",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "40f2f51199e4f5fc46fa6b985fb3461bb63e6cd86c62bfa9bcee45ed4438d5fb"
+    }
+  },
+  {
+    "sha256": "182edb49efc39a8f9df3a73e8f24cd185bcc948197480c55adc7acda04af6ae3",
+    "package": "iconv-corefoundation/lib",
+    "size": 211944,
+    "path": "node_modules/iconv-corefoundation/lib/native.node",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "182edb49efc39a8f9df3a73e8f24cd185bcc948197480c55adc7acda04af6ae3"
+    }
+  },
+  {
+    "sha256": "6ac4ba1cce8aca75dbcafafa1951955dd30d99ca9953fa81020d0c5246cbd317",
+    "package": "lightningcss-darwin-arm64",
+    "size": 8516384,
+    "path": "node_modules/lightningcss-darwin-arm64/lightningcss.darwin-arm64.node",
+    "circl_status": "not_found",
+    "circl": {
+      "message": "Non existing SHA-256",
+      "query": "6ac4ba1cce8aca75dbcafafa1951955dd30d99ca9953fa81020d0c5246cbd317"
+    }
+  }
+]

@@ -51,7 +51,5 @@ appImage:
 rpm:
   artifactName: ${name}-${version}.${ext}
 npmRebuild: false
-publish:
-  provider: github
-  owner: fathah
-  repo: hermes-desktop
+# Auto-update publish block removed (security audit 2026-05-02 — findings EH-012, NS-006).
+# Re-add only after acquiring code-signing certs + notarization.
